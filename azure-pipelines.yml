@@ -68,7 +68,7 @@ stages:
         deploy:
           steps:
           - task: AzureWebApp@1
-            displayName: 'Azure Web App Deploy: tailspin-space-game-1111'
+            displayName: 'Azure Web App Deploy: loump1'
             inputs:
               azureSubscription: $(azureSubscription)
               appType: webAppLinux
