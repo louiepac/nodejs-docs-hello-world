@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'db04967e-6d3a-41cd-87b2-2fdeef0f8997'
 
   # Web app name
-  webAppName: 'tailspin-space-game-1111'
+  webAppName: 'loump1'
 
   # Environment name
-  environmentName: 'tailspin-space-game-1111'
+  environmentName: 'loump1'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
