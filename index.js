@@ -55,11 +55,11 @@ const router = express.Router();
 
 // Hello World for index page
 app.get('/', function (req, res) {
-    return res.send("Hello World! Hello Louie P, Happy Friday!");
+    return res.send("Hello World! Hello Louie P, Happy Weekend!");
 })
 
 app.get('/api', function (req, res) {
-    return res.send("Fabrikam Bank API");
+    return res.send("world's greatest api");
 })
   
 // ----------------------------------------------
